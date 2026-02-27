@@ -7,8 +7,8 @@
 
 | 📝 Tên đề bài                                                                 | 🔗 Link Code                                                                        |
 |-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| Tạo danh sách List<String> tên người, sắp xếp và in ra theo alphabet.         | [View Code](https://github.com/mabu0410/week2.git/src/collection/NameSorted.java)   |
-| Dùng Map<String, Integer> đếm số lần xuất hiện của từ trong 1 đoạn văn bản    | [View Code](https://github.com/your-username/java-collections/tree/main/list-sort)  |
+| Tạo danh sách List<String> tên người, sắp xếp và in ra theo alphabet.         | [View Code](src/collection/NameSorted.java)   |
+| Dùng Map<String, Integer> đếm số lần xuất hiện của từ trong 1 đoạn văn bản    | [View Code](src/collection/WordCounter.java)  |
 | Viết generic method in ra tất cả phần tử của 1 mảng.                          | [View Code](https://github.com/your-username/java-collections/tree/main/word-count) |
 | Dùng lambda để lọc ra các số chẵn trong List<Integer>.                        | [View Code](https://github.com/your-username/java-collections/tree/main/overview)   |
 | Dùng Stream lọc danh sách Student có điểm >= 7 và sắp xếp giảm dần theo điểm. | [View Code](https://github.com/your-username/java-collections/tree/main/list-sort)  |
