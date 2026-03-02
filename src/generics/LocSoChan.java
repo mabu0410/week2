@@ -11,6 +11,7 @@ public class LocSoChan {
         for(int i = 0; i < 100; i++){
             list.add(i);
         }
+
         list.removeIf(n -> n % 2 != 0);
 
         System.out.println(list);
