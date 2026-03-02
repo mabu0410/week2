@@ -140,4 +140,15 @@ public class QuanLyNhanVien {
         });
     }
 
+    //10. Đếm nhân viên ACTIVE
+    public long demNhanVienActive() {
+        return danhSach.stream().filter(nv -> nv.getTrangThai() == TrangThai.ACTIVE).count();
+    }
+
+    //11. Hiển thị danh sách
+    public void hienThiDanhSach(){
+        if(danhSach.isEmpty()) System.out.println("Danh sách trống.");
+        else danhSach.forEach(System.out::println);
+    }
+
 }
