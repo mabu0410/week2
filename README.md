@@ -17,8 +17,8 @@
 | Tạo 2 thread song song: 1 thread in số chẵn, 1 in số lẻ từ 1–20.              | [View Code](src/threads/ThreadDemo.java) |
 | Sử dụng ExecutorService để chạy 3 tác vụ song song.                           | [View Code](src/threads/ThreadDemo.java) |
 | Tạo Maven project HelloWorld                                                  | [View Code](project_maven/src/main/java/org/example/Main.java) |
-| Viết JUnit test kiểm tra hàm tính tổng 2 số.                                  | [View Code](src/test/java/CalculatorTest.java) |
-| Viết hàm tính giai thừa có test case cho n = 0, 1, 5.                         | [View Code](src/main/java/org/example/Calculator.java) |
+| Viết JUnit test kiểm tra hàm tính tổng 2 số.                                  | [View Code](project_maven/src/test/java/CalculatorTest.java) |
+| Viết hàm tính giai thừa có test case cho n = 0, 1, 5.                         | [View Code](project_maven/src/main/java/org/example/Calculator.java) |
 
 
 
