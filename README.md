@@ -14,11 +14,11 @@
 | Dùng lambda để lọc ra các số chẵn trong List<Integer>.                        | [View Code](src/generics/LocSoChan.java) |
 | Dùng Stream lọc danh sách Student có điểm >= 7 và sắp xếp giảm dần theo điểm. | [View Code](src/stream/LocSinhVien.java) |
 | Dùng Collectors.groupingBy() nhóm sinh viên theo tuổi.                        | [View Code](src/stream/LocSinhVien.java) |
-| Tạo 2 thread song song: 1 thread in số chẵn, 1 in số lẻ từ 1–20.              | [View Code](https://github.com/your-username/java-collections/tree/main/overview) |
-| Sử dụng ExecutorService để chạy 3 tác vụ song song.                           | [View Code](https://github.com/your-username/java-collections/tree/main/list-sort) |
-| Tạo Maven project HelloWorld                                                  | [View Code](https://github.com/your-username/java-collections/tree/main/word-count) |
-| Viết JUnit test kiểm tra hàm tính tổng 2 số.                                  | [View Code](https://github.com/your-username/java-collections/tree/main/overview) |
-| Viết hàm tính giai thừa có test case cho n = 0, 1, 5.                         | [View Code](https://github.com/your-username/java-collections/tree/main/list-sort) |
+| Tạo 2 thread song song: 1 thread in số chẵn, 1 in số lẻ từ 1–20.              | [View Code](src/threads/ThreadDemo.java) |
+| Sử dụng ExecutorService để chạy 3 tác vụ song song.                           | [View Code](src/threads/ThreadDemo.java) |
+| Tạo Maven project HelloWorld                                                  | [View Code](src/main/java/org/example/Calculator.java) |
+| Viết JUnit test kiểm tra hàm tính tổng 2 số.                                  | [View Code](src/test/java/CalculatorTest.java) |
+| Viết hàm tính giai thừa có test case cho n = 0, 1, 5.                         | [View Code](src/main/java/org/example/Calculator.java) |
 
 
 
