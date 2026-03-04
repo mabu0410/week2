@@ -21,6 +21,24 @@
 | Viết hàm tính giai thừa có test case cho n = 0, 1, 5.                         | [View Code](project_maven/src/main/java/org/example/Calculator.java) |
 
 
+--- 
+🏢 Project: Hệ Thống Quản Lý Nhân Viên
+
+🔗 Source Code: [View Source Code](https://github.com/mabu0410/week2-QuanLyNhanVien.git) 
+
+| 📦 Chức năng             | 📖 Mô tả                                              |
+|--------------------------| ----------------------------------------------------- |
+| ➕ Thêm nhân viên         | Thêm thông tin nhân viên mới với validation dữ liệu   |
+| ✏️ Cập nhật nhân viên    | Chỉnh sửa thông tin nhân viên theo ID                 |
+| ❌ Xóa nhân viên          | Xóa nhân viên khỏi hệ thống                           |
+| 🔍 Tìm kiếm              | Tìm theo tên, phòng ban, loại nhân viên, khoảng lương |
+| 📊 Thống kê              | Tổng số nhân viên, tổng quỹ lương, lương trung bình   |
+| 🔃 Sắp xếp               | Sắp xếp theo tên, lương, ngày tuyển dụng              |
+| 💾 Lưu dữ liệu           | Lưu danh sách nhân viên vào file CSV                  |
+| 📂 Load dữ liệu          | Đọc dữ liệu từ file CSV khi khởi động                 |
+| ⚡ Multithreading         | Auto save mỗi 60s và in tổng quỹ lương mỗi 30s        |
+
+
 
 
 ## 👨‍💻 Author
